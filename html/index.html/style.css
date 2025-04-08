@@ -1,0 +1,20 @@
+body{
+    background-color: blue;
+    height: 100svh;
+    
+}
+a{
+    color: rgb(230, 17, 17);
+}
+div{
+    border:5px dotted black;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   
+    
+}
+ 

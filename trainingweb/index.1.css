@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+div{
+    background-color: 2px solid black;
+}
